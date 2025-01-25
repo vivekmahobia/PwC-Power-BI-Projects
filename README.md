@@ -1,1 +1,1 @@
-# pwc-power-bi-projects
+Recently, I finished the job simulation offered by PwC Switzerland on Forage, during which I contributed to several significant projects that enhanced my data analysis skills and knowledge. These projects covered areas such as call center trends, customer retention, and diversity & inclusion analysis. Each project provided valuable insights and practical experience, deepening my understanding of these important topics. I’d like to highlight the three projects I worked on and the key takeaways from each.
